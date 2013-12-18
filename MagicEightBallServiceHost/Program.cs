@@ -9,7 +9,7 @@ using MagicEightBallServiceLib;
 namespace MagicEightBallServiceHost
 {
     class Program
-    {
+    {   //wlj:add some comment
         static void Main(string[] args)
         {
             Console.WriteLine("**** Console Base WCF host");
